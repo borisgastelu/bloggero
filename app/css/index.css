@@ -1,0 +1,26 @@
+body, html {
+  cursor: default;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  -webkit-user-select: none;
+}
+
+#main {
+  margin-top: 70px;
+  position: relative;
+}
+
+.ct-widget.ct-ignition {
+  position: relative;
+  top: -20px;
+}
+
+.editor-main {
+  margin-top: 40px;
+  position: absolute;
+}
